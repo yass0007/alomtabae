@@ -33,7 +33,7 @@ header {
 .logo {
   order: 2;
   width: 45px;
-  margin-top: 16px;
+  margin-top: 12px;
   cursor: pointer;
 }
 .menu { 
@@ -68,7 +68,7 @@ header {
 }
 
 .logo {
-  width: 50px;
+  width: 45px;
 }
 
 .menu ul {
@@ -161,7 +161,7 @@ border-top: none;
       opacity: 1;
       visibility: visible;
       position: fixed;
-      top: 35%;
+      top: 30%;
       left: 50%;
       transform: translate(-50%, -50%);
       background: linear-gradient(to bottom ,#6782B4, #B1BFD8);
@@ -235,7 +235,7 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to left,#37D5D6, #36096D);
   color: black;
-  list-style: none;
+  list-style-type: none;
   font-size: 27px;
   /* padding: 0px; */
 }
