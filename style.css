@@ -235,13 +235,14 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to left,#37D5D6, #36096D);
   color: black;
+  list-style: none;
   font-size: 27px;
   /* padding: 0px; */
 }
 
 #notes {
-  background-color: #f4f4f4;
-  background: linear-gradient(linear-gradient(to right, #37D5D6, #36096D); 
+ 
+  background: linear-gradient(linear-gradient (to right, #37D5D6, #36096D); 
   overflow: auto;
   cursor: default;
   display: block;
