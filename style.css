@@ -175,7 +175,7 @@ border-top: none;
       opacity: 0;
       visibility: hidden;
     }
-<style>
+
   .thumbnail {
     position: relative;
     overflow: hidden;
@@ -264,5 +264,4 @@ border-top: none;
 #services > .section-title {
   margin-top: 0;
 }
-</style>
 
