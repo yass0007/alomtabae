@@ -175,7 +175,7 @@ border-top: none;
       opacity: 0;
       visibility: hidden;
     }
-
+<style>
   .thumbnail {
     position: relative;
     overflow: hidden;
@@ -235,11 +235,11 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to left,#37D5D6, #36096D);
   color: black;
-  
+  list-style-position: outside;
   font-size: 27px;
   /* padding: 0px; */
 }
-<style>
+
 #notes {
  
   background: linear-gradient(linear-gradient (to right, #37D5D6, #36096D); 
