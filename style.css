@@ -16,7 +16,7 @@ header {
   justify-content: space-between;
 }
 .header {
-   background: linear-gradient(to right, #FFDD00, #FBB034);
+   background: linear-gradient(to bottom, #647DEE, #36096D);
   display: flex;
   justify-content: space-between;
   align-items: center; 
@@ -32,7 +32,7 @@ header {
 }
 .logo {
   order: 2;
-  width: 200px;
+  width: 50px;
   margin-top: 16px;
   cursor: pointer;
 }
@@ -68,7 +68,7 @@ header {
 }
 
 .logo {
-  width: 200px;
+  width: 50px;
 }
 
 .menu ul {
@@ -118,7 +118,7 @@ header {
 }
 
 .container:hover img {
-  filter: brightness(50%);
+  filter: brightness(25%);
 }
 
 .centered {
@@ -153,9 +153,9 @@ header {
 border-top: none;
 }
 .section-title {
-  color: brown;
+  color: black;
   font-size: 36px;
-  text-shadow: 0 0 10px gold;
+  text-shadow: 0 0 10px blue;
 }
 #popup {
       opacity: 1;
@@ -164,7 +164,7 @@ border-top: none;
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      background: linear-gradient(to right,#F53803,#F5D020);
+      background: linear-gradient(to bottom ,#6782B4, #B1BFD8);
       padding: 50px;
       text-align: center;
       z-index: 9999;
@@ -175,7 +175,7 @@ border-top: none;
       opacity: 0;
       visibility: hidden;
     }
-<style>
+
   .thumbnail {
     position: relative;
     overflow: hidden;
@@ -216,12 +216,12 @@ border-top: none;
 }
 
 #vision {
- background: linear-gradient(to right,#F53803,#F5D020);
+ background: linear-gradient(to right,#37D5D6, #36096D);
   padding-inline: 50px;
   font-size: 27px;
 }
 #contact {
- background: linear-gradient(to right,#EC9F05, #FF4E00);
+ background: linear-gradient(to left, #37D5D6, #36096D);
   padding-inline: 50px;
   font-size: 27px;
   color: black;
@@ -233,7 +233,7 @@ border-top: none;
 #why {
   background-image: url("why-background.jpg");
   background-size: cover;
-  background: linear-gradient(to right, #EC9F05, #FF4E00);
+  background: linear-gradient(to left,#37D5D6, #36096D);
   color: black;
   font-size: 27px;
   /* padding: 0px; */
@@ -241,7 +241,7 @@ border-top: none;
 
 #notes {
   background-color: #f4f4f4;
-  background: linear-gradient(to right, #F53803,#F5D020); 
+  background: linear-gradient(linear-gradient(to right, #37D5D6, #36096D); 
   overflow: auto;
   cursor: default;
   display: block;
@@ -262,4 +262,5 @@ border-top: none;
 }
 #services > .section-title {
   margin-top: 0;
+}
 }
