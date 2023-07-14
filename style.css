@@ -235,7 +235,7 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to left,#37D5D6, #36096D);
   color: black;
-  list-style-type: none;
+list-style-type: circle;
   font-size: 27px;
   /* padding: 0px; */
 }
