@@ -235,7 +235,7 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to left,#37D5D6, #36096D);
   color: black;
-  list-style-position: outside;
+  list-style-position: inside;
   font-size: 27px;
   /* padding: 0px; */
 }
@@ -250,7 +250,6 @@ border-top: none;
 #why > ul {
   margin: 0;
   padding: 0;
-  list-style-type: none;
 }
 #why > .section-title {
   margin-top: 0;
