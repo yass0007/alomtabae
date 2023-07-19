@@ -33,8 +33,7 @@ header {
 
 .logo {
   order: 2;
-  width: 45px;
-  margin-top: 12px;
+  width: 45x20px;
   cursor: pointer;
 }
 .menu { 
@@ -66,10 +65,6 @@ header {
   background-color: #ab9584;
   color: #fffffS;
   padding: 10px 15px;
-}
-
-.logo {
-  width: 45px;
 }
 
 .menu ul {
