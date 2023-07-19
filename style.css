@@ -43,8 +43,7 @@ header {
   display:flex;
   gap: 16px;
 }
-.link {
-  
+.link { 
   background: none;
   border: none;
   text-decoration: none;
@@ -82,7 +81,7 @@ header {
 }
 
 .menu li a:hover {
-   color: #ff7f50;
+   color: #2a9df4;
   transform: scale(1.1); /* Zoom in when hovered */
 }
 .container {
@@ -171,7 +170,7 @@ border-top: none;
       opacity: 0;
       visibility: hidden;
     }
-<style>
+
   .thumbnail {
     position: relative;
     overflow: hidden;
@@ -231,7 +230,7 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to left,#37D5D6, #36096D);
   color: black;
- 
+  list-style-type: none;
   font-size: 27px;
   /* padding: 0px; */
 }
@@ -250,6 +249,7 @@ border-top: none;
 }
 #why > .section-title {
   margin-top: 0;
+  list-style-type: none;
 }
 #services > ul {
   
