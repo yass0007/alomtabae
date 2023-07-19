@@ -170,7 +170,7 @@ border-top: none;
       opacity: 0;
       visibility: hidden;
     }
-
+<style>
   .thumbnail {
     position: relative;
     overflow: hidden;
@@ -206,21 +206,23 @@ border-top: none;
 }
 
 #services {
- background: linear-gradient(to right, #EC9F05, #FF4E00);
+ background: linear-gradient(to right, #37D5D6, #36096D);
   padding-inline: 0px;
 }
 
 #vision {
- background: linear-gradient(to right,#37D5D6, #36096D);
+  background: linear-gradient(to bottom ,#e8ded1, #e8ded1);
   padding-inline: 50px;
   font-size: 27px;
+  color: #a0816c;
 }
 #contact {
- background: linear-gradient(to left, #37D5D6, #36096D);
+ background: linear-gradient(to top ,#f1e9d2,#f1e9d2);
   padding-inline: 50px;
   font-size: 27px;
-  color: black;
+  color: #a0816c;
 }
+
 #contact > ul {
   list-style-type: none;
 }
@@ -228,16 +230,16 @@ border-top: none;
 #why {
   background-image: url("why-background.jpg");
   background-size: cover;
-  background: linear-gradient(to left,#37D5D6, #36096D);
-  color: black;
-  list-style-type: none;
+  background: linear-gradient(to bottom ,#f1e9d2,#f1e9d2);
+   list-style: none;
+  color: #a0816c;
   font-size: 27px;
   /* padding: 0px; */
 }
 
 #notes {
- 
-  background: linear-gradient(linear-gradient (to right, #37D5D6, #36096D); 
+  background-color: #f4f4f4;
+  background: linear-gradient(to top ,#fff8e7,#fff8e7);
   overflow: auto;
   cursor: default;
   display: block;
