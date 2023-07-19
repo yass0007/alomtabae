@@ -25,6 +25,10 @@ header {
   position: sticky;
   top: 0;
   z-index: 10;
+  background-image: url('https://www.pngkit.com/png/full/165-1653895_city-landscape-png.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
 }
 @keyframes gradientAnimation {
   0% { background-position: 0% 50%; }
