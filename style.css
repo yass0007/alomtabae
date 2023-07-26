@@ -151,6 +151,12 @@ border-top: none;
   color: black;
   font-size: 36px;
 }
+.copyright {
+  background-color: #252525;
+  padding: 40px;
+  color: blue;
+  margin-bottom: 0;
+}
 #popup {
       opacity: 1;
       visibility: visible;
