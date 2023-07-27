@@ -110,6 +110,7 @@ header {
   width: 100%;
   transition: filter 0.5s ease-in-out;
   display: block;
+  border-bottom: 5px solid black;
 }
 
 .container:hover img {
@@ -148,7 +149,7 @@ header {
 border-top: none;
 }
 .section-title {
-  color: black;
+  color: #d3a13b; 
   font-size: 36px;
 }
 .copyright {
@@ -219,13 +220,13 @@ border-top: none;
   background: linear-gradient(to bottom ,#e8ded1, #e8ded1);
   padding-inline: 50px;
   font-size: 27px;
-  color: #a0816c;
+  color: #23297a;
 }
 #contact {
  background: linear-gradient(to top ,#f1e9d2,#f1e9d2);
   padding-inline: 50px;
   font-size: 27px;
-  color: #a0816c;
+  color: #23297a;
 }
 
 #contact > ul {
@@ -237,7 +238,7 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to bottom ,#f1e9d2,#f1e9d2);
    list-style: none;
-  color: #a0816c;
+  color: #23297a;
   font-size: 27px;
   /* padding: 0px; */
 }
