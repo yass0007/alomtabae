@@ -149,7 +149,7 @@ header {
 border-top: none;
 }
 .section-title {
-  color: #938071; 
+  color: #827164; 
   font-size: 36px;
 }
 .copyright {
@@ -220,13 +220,13 @@ border-top: none;
   background: linear-gradient(to bottom ,#e8ded1, #e8ded1);
   padding-inline: 50px;
   font-size: 27px;
-  color: #23297a;
+  color: #5B709F;
 }
 #contact {
  background: linear-gradient(to top ,#f1e9d2,#f1e9d2);
   padding-inline: 50px;
   font-size: 27px;
-  color: #23297a;
+  color: #5B709F;
 }
 
 #contact > ul {
@@ -238,7 +238,7 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to bottom ,#f1e9d2,#f1e9d2);
    list-style: none;
-  color: #23297a;
+  color: #5B709F;
   font-size: 27px;
   /* padding: 0px; */
 }
