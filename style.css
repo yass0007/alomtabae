@@ -220,13 +220,13 @@ border-top: none;
   background: linear-gradient(to bottom ,#e8ded1, #e8ded1);
   padding-inline: 50px;
   font-size: 27px;
-  color: #5B709F;
+  color: #052469;
 }
 #contact {
  background: linear-gradient(to top ,#f1e9d2,#f1e9d2);
   padding-inline: 50px;
   font-size: 27px;
-  color: #5B709F;
+  color: #052469;
 }
 
 #contact > ul {
@@ -238,7 +238,7 @@ border-top: none;
   background-size: cover;
   background: linear-gradient(to bottom ,#f1e9d2,#f1e9d2);
    list-style: none;
-  color: #5B709F;
+  color: #052469;
   font-size: 27px;
   /* padding: 0px; */
 }
